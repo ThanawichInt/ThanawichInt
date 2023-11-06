@@ -9,7 +9,6 @@ I've been learning computer languages for years, and looking for opportunities t
 * 🌍  I'm based in Bankok, Thailand
 * ✉️  You can contact me at [Thanawich.int.work@gmail.com](mailto:Thanawich.int.work@gmail.com)
 * 🧠  I'm learning a knowledge graph
-* ⚡  working on constructing a knowledge graph for criminal activities in Thailand
 
 ### Skills
 
